@@ -4,7 +4,7 @@ Welcome to my public facing projects. Please continue to check back as I publish
 Anyone is always welcome to reach out with comments, questions, concerns, etc. I love to learn and assist others who are interested in doing so as well.
 
 ### Recent Projects
-[Added CompTIA repository with Linux+ materials](https://github.com/aralverson/comptia-study-materials)
+[CompTIA repository with Linux+ materials](https://github.com/aralverson/comptia-study-materials)
 
 ### Current Projects
 Coming soon!
